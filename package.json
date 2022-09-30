@@ -1,0 +1,24 @@
+{
+  "name": "techy-news",
+  "version": "1.0.0",
+  "description": "techy-news",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbelom/techy-news.git"
+  },
+  "author": "Marissa Belombre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mbelom/techy-news/issues"
+  },
+  "homepage": "https://github.com/mbelom/techy-news#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.23.0"
+  }
+}
